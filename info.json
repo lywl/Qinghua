@@ -1,0 +1,72 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "http://www.yuerjieda.com/ma/",
+            "path": "index.html",
+            "saved": true,
+            "size": 817,
+            "children": [
+                {
+                    "url": "http://www.yuerjieda.com/ma/ka.yuerjieda.com/css/layout.css",
+                    "saved": false
+                }
+            ]
+        }
+    ],
+    "alias": "www-yuerjieda-com-tvsv9pmw",
+    "info": {
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "http://www.yuerjieda.com/ma/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "redirects": [],
+            "responseUrl": "http://www.yuerjieda.com/ma/",
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Thu, 16 Sep 2021 08:37:05 GMT",
+                "content-type": "text/html",
+                "content-length": "1001",
+                "last-modified": "Mon, 02 Aug 2021 07:34:24 GMT",
+                "connection": "close",
+                "etag": "\"6107a000-3e9\"",
+                "accept-ranges": "bytes"
+            }
+        },
+        "time": {
+            "start": "2021-09-16T08:37:04.084Z",
+            "end": "2021-09-16T08:37:05.314Z"
+        },
+        "remark": [],
+        "ip": "47.114.54.169",
+        "url": "http://www.yuerjieda.com/ma/",
+        "main": "index.html",
+        "domain": "www.yuerjieda.com",
+        "origin": "http://www.yuerjieda.com",
+        "totalSize": "817 B"
+    },
+    "options": {
+        "formatter": [],
+        "url": "http://www.yuerjieda.com/ma/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "filenameGenerator": "byType"
+    }
+}
